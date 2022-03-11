@@ -1,0 +1,1 @@
+# Exploration-of-Mixture-g-Priors-BMA-Variable-Selection-in-Generalized-Linear-Model-with-Microarray-D
