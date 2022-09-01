@@ -4,4 +4,4 @@ Bayesian model average is a well-known method that provides a coherent mechanism
 
 To read the article:
 
-https://noblegasss.github.io/stats/BMA/
+https://noblegasss.github.io/mystatsnotes/BMA
