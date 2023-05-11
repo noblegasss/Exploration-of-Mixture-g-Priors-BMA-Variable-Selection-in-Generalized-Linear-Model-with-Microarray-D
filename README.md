@@ -2,6 +2,5 @@
 
 Bayesian model average is a well-known method that provides a coherent mechanism for accounting for the model uncertainty. 
 
-To read the article:
+[Link](https://noblegasss.github.io/statistics/BMA)
 
-https://noblegasss.github.io/mystatsnotes/BMA
